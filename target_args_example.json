@@ -1,0 +1,6 @@
+    {
+        "target_addr": "***@***.com",
+        "source_addr": "mailgun@*******.mailgun.org",
+        "api": "******************",
+        "target": "https://api.mailgun.net/v3/*******.mailgun.org/messages"
+    }
